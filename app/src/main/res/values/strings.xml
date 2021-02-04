@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ranks</string>
+    <string name="news">News</string>
+    <string name="news_details">News Details</string>
+    <string name="search">Search</string>
+    <string name="to_link">toLink</string>
+    <string name="divider">|</string>
+    <string name="promotion">Promotion!!!</string>
+    <string name="go_to_promotion">Go to promotion</string>
+</resources>
